@@ -8,38 +8,38 @@ namespace PracticaExamenED
 {
     public class Transporte
     {
-        public string conductor;
-        public int paquetes;
-        public double peso_carga;
-        public int ruta;
+        public string cond;
+        public int paq;
+        public double pes_carg;
+        public int rut;
 
         public const int ERROR_PAQUETES = -1;
         public const int ERROR_RUTA = -1;
         public const int ERROR_PESO_CARGA = -1;
 
         public Transporte() {
-            this.conductor = "";
-            this.paquetes = 0;
-            this.peso_carga = 0.0;
-            this.ruta = 0;
+            this.cond = "";
+            this.paq = 0;
+            this.pes_carg = 0.0;
+            this.rut = 0;
 
         }
 
         public Transporte(string conductor,int paquetes,double peso_carga,int ruta) {
-            this.conductor = conductor;
-            this.paquetes = paquetes;
-            this.peso_carga = peso_carga;
-            this.ruta = ruta;
+            this.cond = conductor;
+            this.paq = paquetes;
+            this.pes_carg = peso_carga;
+            this.rut = ruta;
         }
 
         public int calculaParadas() {
-            if (this.paquetes < 1) {
+            if (this.paq < 1) {
                 return Transporte.ERROR_PAQUETES;
             }
-            if (this.ruta < 1) {
+            if (this.rut < 1) {
                 return Transporte.ERROR_RUTA;
             }
-            int paradas = this.paquetes;
+            int paradas = this.paq;
             // Si es random no hay manera de hacer test unitario y acertar...
             // Random random = new Random();
             // paradas = random.Next(1, this.paquetes + 1);
@@ -47,33 +47,36 @@ namespace PracticaExamenED
         }
 
         public double kilometrosPorRuta() {
-            if (this.paquetes < 1) {
+            if (this.paq < 1) {
                 return Transporte.ERROR_PAQUETES;
             }
-            if (this.peso_carga < 1) {
+            if (this.pes_carg < 1) {
                 return Transporte.ERROR_PESO_CARGA;
             }
-            double kilometros = (this.peso_carga * (double) this.paquetes) / 100;
+            if (this.rut < 1) {
+                return Transporte.ERROR_RUTA;
+            }
+            double kilometros = (this.pes_carg * (double) this.paq) / 100;
             return kilometros;
         }
 
         public double pesoPorPaquete() {
-            if (this.paquetes < 1) {
+            if (this.paq < 1) {
                 return Transporte.ERROR_PAQUETES;
             }
-            if (this.peso_carga < 1) {
+            if (this.pes_carg < 1) {
                 return Transporte.ERROR_PESO_CARGA;
             }
             double peso_por_paquete = 0.0;
-            peso_por_paquete = this.peso_carga / (double) this.paquetes;
+            peso_por_paquete = this.pes_carg / (double) this.paq;
             return peso_por_paquete;
         }
 
         public string toString() {
-            return this.conductor + "\n" +
-            this.paquetes + " paquetes\n" +
-            this.peso_carga + " kgs de carga\n" +
-            this.ruta + " ruta\n" +
+            return this.cond + "\n" +
+            this.paq + " paquetes\n" +
+            this.pes_carg + " kgs de carga\n" +
+            this.rut + " ruta\n" +
             "Total Paradas = " + this.calculaParadas() + "\n" +
             "Peso por paquete = " + this.pesoPorPaquete() + "\n" +
             "Total Kms = " + this.kilometrosPorRuta() + "\n";
