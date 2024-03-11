@@ -1,0 +1,21 @@
+C:/Users/mbroc/OneDrive/Desktop/PRUEBAS ED/PracticaExamenED/bin/Debug/PracticaExamenED.exe.config
+C:/Users/mbroc/OneDrive/Desktop/PRUEBAS ED/PracticaExamenED/bin/Debug/PracticaExamenED.exe
+C:/Users/mbroc/OneDrive/Desktop/PRUEBAS ED/PracticaExamenED/bin/Debug/PracticaExamenED.pdb
+C:/Users/mbroc/OneDrive/Desktop/PRUEBAS ED/PracticaExamenED/obj/Debug/PracticaExamenED.csproj.AssemblyReference.cache
+C:/Users/mbroc/OneDrive/Desktop/PRUEBAS ED/PracticaExamenED/obj/Debug/PracticaExamenED.csproj.CoreCompileInputs.cache
+C:/Users/mbroc/OneDrive/Desktop/PRUEBAS ED/PracticaExamenED/obj/Debug/PracticaExamenED.exe
+C:/Users/mbroc/OneDrive/Desktop/PRUEBAS ED/PracticaExamenED/obj/Debug/PracticaExamenED.pdb
+/home/salvadorp/Devel/entornos/pracexamened/obj/Debug/PracticaExamenED.exe
+/home/salvadorp/Devel/entornos/pracexamened/obj/Debug/PracticaExamenED.pdb
+/home/salvadorp/Devel/entornos/pracexamened/obj/Debug/PracticaExamenED.csproj.AssemblyReference.cache
+/home/salvadorp/Devel/entornos/pracexamened/obj/Debug/PracticaExamenED.csproj.CoreCompileInputs.cache
+/home/salvadorp/Devel/entornos/pracexamened/bin/Debug/PracticaExamenED.exe.config
+/home/salvadorp/Devel/entornos/pracexamened/bin/Debug/PracticaExamenED.exe
+/home/salvadorp/Devel/entornos/pracexamened/bin/Debug/PracticaExamenED.pdb
+/home/salvadorp/entornos/otroexamened/bin/Debug/PracticaExamenED.exe.config
+/home/salvadorp/entornos/otroexamened/bin/Debug/PracticaExamenED.exe
+/home/salvadorp/entornos/otroexamened/bin/Debug/PracticaExamenED.pdb
+/home/salvadorp/entornos/otroexamened/obj/Debug/PracticaExamenED.csproj.AssemblyReference.cache
+/home/salvadorp/entornos/otroexamened/obj/Debug/PracticaExamenED.csproj.CoreCompileInputs.cache
+/home/salvadorp/entornos/otroexamened/obj/Debug/PracticaExamenED.exe
+/home/salvadorp/entornos/otroexamened/obj/Debug/PracticaExamenED.pdb
