@@ -40,7 +40,9 @@ namespace PracticaExamenED
                 return Transporte.ERROR_RUTA;
             }
             int paradas = this.paq;
-            // Si es random no hay manera de hacer test unitario y acertar...
+            // Si es random se puede hacer un assert.isTRue(calculado < esperado)
+            // siendo esperado = this.paquets => Assert.IsTrue(calculado < this. paquetes, "message");
+            // Assert.IsTrue(calculado < this. paquetes, "message");
             // Random random = new Random();
             // paradas = random.Next(1, this.paquetes + 1);
             return paradas;
