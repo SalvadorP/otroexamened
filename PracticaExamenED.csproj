@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Transportes.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="RMB2324_Transporte.cs" />
+    <Compile Include="Examen2EVRMB2324.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

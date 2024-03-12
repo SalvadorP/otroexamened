@@ -19,3 +19,17 @@ C:/Users/mbroc/OneDrive/Desktop/PRUEBAS ED/PracticaExamenED/obj/Debug/PracticaEx
 /home/salvadorp/entornos/otroexamened/obj/Debug/PracticaExamenED.csproj.CoreCompileInputs.cache
 /home/salvadorp/entornos/otroexamened/obj/Debug/PracticaExamenED.exe
 /home/salvadorp/entornos/otroexamened/obj/Debug/PracticaExamenED.pdb
+C:\Users\mbroc\OneDrive\Desktop\PRUEBAS ED\OtroExamenEd\bin\Debug\PracticaExamenED.exe.config
+C:\Users\mbroc\OneDrive\Desktop\PRUEBAS ED\OtroExamenEd\bin\Debug\PracticaExamenED.exe
+C:\Users\mbroc\OneDrive\Desktop\PRUEBAS ED\OtroExamenEd\bin\Debug\PracticaExamenED.pdb
+C:\Users\mbroc\OneDrive\Desktop\PRUEBAS ED\OtroExamenEd\obj\Debug\PracticaExamenED.csproj.AssemblyReference.cache
+C:\Users\mbroc\OneDrive\Desktop\PRUEBAS ED\OtroExamenEd\obj\Debug\PracticaExamenED.csproj.CoreCompileInputs.cache
+C:\Users\mbroc\OneDrive\Desktop\PRUEBAS ED\OtroExamenEd\obj\Debug\PracticaExamenED.exe
+C:\Users\mbroc\OneDrive\Desktop\PRUEBAS ED\OtroExamenEd\obj\Debug\PracticaExamenED.pdb
+C:\ENTORNOS\OtroExamenEd\bin\Debug\PracticaExamenED.exe.config
+C:\ENTORNOS\OtroExamenEd\bin\Debug\PracticaExamenED.exe
+C:\ENTORNOS\OtroExamenEd\bin\Debug\PracticaExamenED.pdb
+C:\ENTORNOS\OtroExamenEd\obj\Debug\PracticaExamenED.csproj.AssemblyReference.cache
+C:\ENTORNOS\OtroExamenEd\obj\Debug\PracticaExamenED.csproj.CoreCompileInputs.cache
+C:\ENTORNOS\OtroExamenEd\obj\Debug\PracticaExamenED.exe
+C:\ENTORNOS\OtroExamenEd\obj\Debug\PracticaExamenED.pdb
